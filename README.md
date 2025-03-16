@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-Hello! I'm a student at the University of Bologna, pursuing a Bachelor's degree in Information Science for Management.<br><br>My favorite programming language is Java, and I'm passionate about exploring various projects, from web development to complex algorithm design.<br><br>I'm always looking for new challenges to enhance my skills and knowledge.<br><br>Welcome to my GitHub!
-
+Hello! I'm a student at the University of Bologna, pursuing a Bachelor's degree in Information Science for Management.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
