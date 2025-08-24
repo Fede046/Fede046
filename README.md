@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 🎓 Studente presso l'**Università di Bologna** - Laurea in **Informatica per il Management**  
-💻 Appassionato di Personal Finance e sviluppo software 
+💻 Appassionato di - Personal Finance e sviluppo software   
 📫 Contattami: **[malserfede@gmail.com]**
 
 ## 🛠️ Tech Stack
