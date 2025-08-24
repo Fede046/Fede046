@@ -1,11 +1,56 @@
+# 👋 Ciao, sono Federico!
 
-# 💫 About Me:
-Hello! I'm a student at the University of Bologna, pursuing a Bachelor's degree in Information Science for Management.
+## 💫 About Me
+🎓 Studente presso l'**Università di Bologna** - Laurea in **Informatica per il Management**  
+💻 Appassionato di tecnologia e sviluppo software   
+📫 Contattami: **[malserfede@gmail.com]**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede046&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
+### Linguaggi
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=Fede046&icon=0&color=0)](https://visitcount.itsvg.in)
+### Database & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## 🚀 Progetti in Evidenza
+- 📊 **[AppuntiGlobal]** - Raccolta di appunti e riassunti personali
+- 🎮 **[Metodi_Numerici_Figure]** - Materiale per Metodi Numerici
+- 💼 **[Codelympics_]** - Piattaforma interattiva con JavaFX
+
+## 📊 GitHub Stats
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Fede046&theme=gruvbox&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fede046&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede046&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+## 🌐 Connettiti con me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-malservigi-4957b4301/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/federico_m64/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malserfede@gmail.com)
+
+## 💭 Quote del Giorno
+<div align="center">
+  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+<div align="center">
+
+
+💙 Grazie per aver visitato il mio profilo!
+
+</div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
