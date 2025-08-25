@@ -1,12 +1,12 @@
-# 👋 Ciao, sono Federico!
+# 👋 Hi, I'm Federico!
 
 ## 💫 About Me
-🎓 Studente presso l'**Università di Bologna** - Laurea in **Informatica per il Management**  
-💻 Appassionato di - Personal Finance e sviluppo software   
-📫 Contattami: **[malserfede@gmail.com]**
+🎓 Student at the **University of Bologna** - Degree in **Computer Science for Management**  
+💻 Passionate about - Personal Finance and software development   
+📫 Contact me: **[malserfede@gmail.com]**
 
 ## 🛠️ Tech Stack
-### Linguaggi
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -15,10 +15,10 @@
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🚀 Progetti in Evidenza
-- 📊 **[AppuntiGlobal]** - Raccolta di appunti e riassunti personali
-- 🎮 **[Metodi_Numerici_Figure]** - Materiale per Metodi Numerici
-- 💼 **[Codelympics_]** - Piattaforma interattiva con JavaFX
+## 🚀 Featured Projects
+- 📊 **[AppuntiGlobal]** - Collection of personal notes and summaries
+- 🎮 **[Metodi_Numerici_Figure]** - Material for Numerical Methods
+- 💼 **[Codelympics_]** - Interactive platform with JavaFX
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -31,12 +31,12 @@
 
 </div>
 
-## 🌐 Connettiti con me
+## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-malservigi-4957b4301/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/federico_m64/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malserfede@gmail.com)
 
-## 💭 Quote del Giorno
+## 💭 Quote of the Day
 <div align="center">
   
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -44,12 +44,9 @@
 ---
 <div align="center">
 
-
-💙 Grazie per aver visitato il mio profilo!
+💙 Thanks for visiting my profile!
 
 </div>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
