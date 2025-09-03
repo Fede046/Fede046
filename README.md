@@ -14,11 +14,6 @@
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🚀 Featured Projects
-- 📊 **[AppuntiGlobal]** - Collection of personal notes and summaries
-- 🎮 **[Metodi_Numerici_Figure]** - Material for Numerical Methods
-- 💼 **[Codelympics_]** - Interactive platform with JavaFX
-
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -35,12 +30,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/federico_m64/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malserfede@gmail.com)
 
-## 💭 Quote of the Day
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
 <div align="center">
 
 💙 Thanks for visiting my profile!
