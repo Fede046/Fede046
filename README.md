@@ -3,7 +3,6 @@
 ## 💫 About Me
 🎓 Student at the **University of Bologna** - Degree in **Computer Science for Management**  
 💻 Passionate about - Personal Finance and software development   
-📫 Contact me: **[malserfede@gmail.com]**
 
 ## 🛠️ Tech Stack
 ### Languages
