@@ -23,13 +23,7 @@
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25px" align="center"/> Passionate about <strong>Personal Finance & Software Development</strong>
   </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px" align="center"/> Currently mastering <strong>Full Stack Development</strong>
-  </li>
-
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25px" align="center"/> Always <strong>learning new technologies</strong>
-  </li>
+  
 </ul>
 
 <div align="center">
