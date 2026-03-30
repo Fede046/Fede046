@@ -11,7 +11,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ2dmtweXRkdjZ1M3hpajRiaG9vcGdjOWFheDZ6OW90cHpweHBwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4hskq67xMqnRpYwBXe/giphy.gif" width="300px" align="right" alt="Space coding animation"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center"/> C'è un tempo per pensare e un tempo per agire.</div>
+
 
 <ul>
   <li>
