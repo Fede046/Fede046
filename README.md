@@ -4,7 +4,7 @@ Computer Science for Management student at the **University of Bologna** (BSc, 2
 
 Most of what I build sits somewhere between **data analysis, statistics and risk** — with regular detours into whatever else looks interesting.
 
-- 💼 **Data Analyst intern** at Bitbang SRL, Data Science Team (Feb–May 2026) — customer data analysis for an e-commerce client
+- 💼 **(Stage) Data Analyst intern** at Bitbang SRL, Data Science Team (Feb–May 2026) — customer data analysis for an e-commerce client
 - 🎓 **BSc thesis in progress** — a statistical supervisor for decision agents in non-stationary environments: detecting when a predictive model breaks, decomposing the break, and recalibrating Kelly-criterion bet sizing accordingly
 - 🔨 **Currently building** — a personal portfolio site with an AI assistant (Vercel + serverless), and a turn-based JRPG demo in Godot 4
 
