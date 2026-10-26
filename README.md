@@ -12,7 +12,7 @@ Computer Science for Management student at the **University of Bologna**. I like
 
 ### Open source
 
-Merged contributions to [career-ops](https://github.com/career-ops-hq/career-ops/pull/5984) (77k ★) and [scroll-studio](https://github.com/Okohedeki/scroll-studio/pull/11).
+Merged contributions to [career-ops](https://github.com/career-ops-hq/career-ops/pull/5984) (77k ★) and [scroll-studio]([https://github.com/Okohedeki/scroll-studio/pull/11](https://github.com/Okohedeki/scroll-studio)).
 
 ### Tech
 
