@@ -2,7 +2,7 @@
 
 Computer Science for Management student at the **University of Bologna**. I like **data, statistics and risk**, and building things around them.
 
-💼 Data Analyst intern at Bitbang SRL (2026) · 🌐 [fede046.github.io](https://fede046.github.io)
+🌐 Personal website: [fede046.github.io](https://fede046.github.io)
 
 ### Projects
 
@@ -12,10 +12,10 @@ Computer Science for Management student at the **University of Bologna**. I like
 
 ### Open source
 
-Merged contributions to [career-ops](https://github.com/career-ops-hq/career-ops/pull/5984) (77k ★) and [scroll-studio](https://github.com/Okohedeki/scroll-studio).
+Merged contributions to [career-ops](https://github.com/career-ops-hq/career-ops/pull/5984) (77k ★) and [scroll-studio](https://github.com/Okohedeki/scroll-studio/pull/11).
 
-### Tech
+### University projects
 
-Python · SQL · Java · Kotlin · JavaScript · PHP · MySQL · MongoDB · Git · Docker
+My team projects for university live in the [E1-Unibo](https://github.com/E1-Unibo) organization. They taught me new technologies, but above all how to work well in a team.
 
 [LinkedIn](https://www.linkedin.com/in/federico-malservigi) · malserfede@gmail.com
