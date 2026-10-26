@@ -1,42 +1,21 @@
 # Federico Malservigi
 
-Computer Science for Management student at the **University of Bologna** (BSc, 2023–present), based in Bologna, Italy.
+Computer Science for Management student at the **University of Bologna**. I like **data, statistics and risk**, and building things around them.
 
-Most of what I build sits somewhere between **data analysis, statistics and risk** — with regular detours into whatever else looks interesting.
+💼 Data Analyst intern at Bitbang SRL (2026) · 🌐 [fede046.github.io](https://fede046.github.io)
 
-- 💼 **(Stage) Data Analyst intern** at Bitbang SRL, Data Science Team (Feb–May 2026) — customer data analysis for an e-commerce client
-- 🎓 **BSc thesis in progress** — a statistical supervisor for decision agents in non-stationary environments: detecting when a predictive model breaks, decomposing the break, and recalibrating Kelly-criterion bet sizing accordingly
+### Projects
 
+- **[structural_hybrid_kelly](https://github.com/Fede046/structural_hybrid_kelly)**: my thesis. When does a betting model stop working, and how much should you bet then? Tested on 31 seasons of Premier League. *Python*
+- **[Daycast](https://github.com/Fede046/Daycast)**: a weather forecast for your PC time. It predicts how much you'll use your PC today, hour by hour. *Python, PyTorch*
+- **[Canone](https://github.com/Fede046/Canone)**: an Android music player that turns each song into visuals. *Kotlin, Compose*
 
----
+### Open source
 
-## Selected projects
+Merged contributions to [career-ops](https://github.com/career-ops-hq/career-ops/pull/5984) (77k ★) and [scroll-studio](https://github.com/Okohedeki/scroll-studio/pull/11).
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[StatisticaPY](https://github.com/Fede046/StatisticaPY)** | Statistics exercises and data science projects — regression and classification on Kaggle datasets | Python, NumPy, pandas |
-| **[ESG-BALANCE](https://github.com/E1-Unibo/ESG-BALANCE)** | Web system for managing ESG reports, backed by both a relational and a document database. Databases course project *(team)* | PHP, MySQL, MongoDB |
-| **[LABSO_PROCESSI_ANONIMI](https://github.com/E1-Unibo/LABSO_PROCESSI_ANONIMI)** | Peer-to-peer file sharing with a central master server: concurrency handling, JSON persistence, download logging *(team)* | Java |
+### Tech
 
+Python · SQL · Java · Kotlin · JavaScript · PHP · MySQL · MongoDB · Git · Docker
 
----
-
-## Tech
-
-**Languages** — Python (NumPy, pandas) · Java · JavaScript · PHP · Kotlin · SQL · MATLAB
-
-**Data** — MySQL · MongoDB · XML / JSON / YAML
-
-**Web** — HTML · CSS · GWT
-
-**Tools** — Git · Docker · Maven · GitLab
-
-**Ways of working** — Agile Scrum (4-person team project)
-
-**Languages (the human kind)** — Italian (native) · English (B2) · Spanish (A2)
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/federico-malservigi) · [Telegram](http://t.me/Federico569) · malserfede@gmail.com
+[LinkedIn](https://www.linkedin.com/in/federico-malservigi) · malserfede@gmail.com
